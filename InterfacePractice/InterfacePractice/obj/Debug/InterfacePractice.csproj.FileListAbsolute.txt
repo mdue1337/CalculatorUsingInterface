@@ -1,0 +1,8 @@
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Users\marti\OneDrive - TEC\Documents\Martins Coding Projects\Interface practice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb
